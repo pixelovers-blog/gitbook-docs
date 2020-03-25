@@ -45,7 +45,7 @@ Once you are happy with your site and want to deploy it to production you can us
 npx frontity build
 ```
 
-to create a production-ready bundle.
+...to create a production-ready bundle.
 
 It will create a `/build` folder with a `server.js` file and a `/static` folder with all your javascript files and other assets. You can either
 
